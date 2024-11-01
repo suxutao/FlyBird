@@ -207,7 +207,7 @@ if __name__ == '__main__':
     start_font = pygame.font.SysFont('微软雅黑', 60)
     start_text = start_font.render('Click to start!', True, 'blue')
     info_font = pygame.font.SysFont('黑体', 30)
-    info_text = info_font.render('''按鼠标或空格键进行跳跃,按shift键进行冲刺''', True, 'darkblue')
+    info_text = info_font.render('''按鼠标或空格键进行跳跃,按shift键进行冲刺,按ctrl键无敌''', True, 'darkblue')
     score_font = pygame.font.SysFont('微软雅黑', 50)
     time_font = pygame.font.SysFont('微软雅黑', 50)
     settle_font = pygame.font.SysFont('幼圆', 60)
