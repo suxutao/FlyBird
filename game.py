@@ -1,7 +1,6 @@
-'''
+"""
 Content:Flying Bird Game
-Author:苏徐涛
-'''
+"""
 
 import sys
 import time

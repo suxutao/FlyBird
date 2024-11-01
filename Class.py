@@ -1,6 +1,5 @@
 """
 Content:Classes and Methods
-Author:苏徐涛
 """
 
 import random
